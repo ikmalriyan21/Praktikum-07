@@ -68,7 +68,7 @@ Package & Module
 daftar_nilai
 ![](https://github.com/ikmalriyan21/Praktikum-07/blob/master/Gambar/daftar%20nilai.png) 
 
-![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Daftar%20Nilai%202.PNG)
+![](https://github.com/ikmalriyan21/Praktikum-07/blob/master/Gambar/daftar%20nilai1.png)
 
 input_nilai
 ![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Input%20Nilai%201.PNG) 
