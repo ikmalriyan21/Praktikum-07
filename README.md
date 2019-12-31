@@ -63,7 +63,7 @@ contoh:
 
 Package & Module
 
-![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/pycharm3.PNG)
+![](https://github.com/ikmalriyan21/Praktikum-07/blob/master/Gambar/package%20and%20module.png)
 
 daftar_nilai
 ![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/Daftar%20Nilai%201.PNG) 
