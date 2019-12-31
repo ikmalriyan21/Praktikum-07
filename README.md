@@ -76,7 +76,7 @@ input_nilai
 ![](https://github.com/ikmalriyan21/Praktikum-07/blob/master/Gambar/input%20nilai1.png)  
 
 view_nilai
-![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/View%20Nilai%201.PNG) 
+![](https://github.com/ikmalriyan21/Praktikum-07/blob/master/Gambar/view%20nilai.png) 
 
 ![](https://github.com/AjiRestu/Pratikum7/blob/master/Gambar/View%20Nilai%202.PNG)  
 
